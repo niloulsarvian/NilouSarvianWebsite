@@ -1,6 +1,9 @@
 theme: starter-academic
-title: Nilou Sarvian
-baseurl: 'niloulsarvian.github.io'
+title: Academic
+baseurl: 'https://niloulsarvian.github.io'
+relativeURLs: false
+
+
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
