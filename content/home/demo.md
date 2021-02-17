@@ -3,8 +3,9 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
 
+
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -12,8 +13,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Hugo Academic Theme Demo
-subtitle:
+title: Nilou Sarvian 
+subtitle: PhD Candidate
 
 design:
   columns: "1"
