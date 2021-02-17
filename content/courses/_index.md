@@ -6,4 +6,4 @@ title: Courses
 type: page
 ---
 
-I teach the following courses:
+I have taken the following courses:
