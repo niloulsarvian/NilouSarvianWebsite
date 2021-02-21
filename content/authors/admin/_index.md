@@ -2,27 +2,18 @@
 bio: My research interests include climate science, clean technology and data science.
 education:
 
-courses:
-  - course: PhD in Earth Science
-    institution: Northwestern University
-    year: 2022
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-highlight_name: false
-interests:
-- Climate Science
-- Clean Technology
-- Data Science
+email: "nilou@earth.northwestern.edu"
+highlight_name: true
+
 organizations:
 - name: Northwestern University
-  url: https://www.northwestern.edu/
+  url: https://www.earth.northwestern.edu/our-people/phd-graduate-students/sarvian-nilou.html
 role: PhD Candidate
+
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
+#- icon: envelope
+ # icon_pack: fas
+  #link: /#contact
 - display:
     header: true
   icon: twitter
@@ -39,10 +30,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/niloulsarvian
 superuser: true
-title: Niloufar Sarvian
+title: Niloufar Lilly Sarvian
 ---
 
-Niloufar Sarvian is a PhD candidate at Northwestern University.
+I am a 4th year PhD candidate at Northwestern University studying paleoclimate. I use isotopes to study earth's past history. 
 
-# 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+ 
+

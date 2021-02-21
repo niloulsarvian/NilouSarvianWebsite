@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Nilou Sarvian</title>
     <link>https://niloulsarvian.github.io/</link>
       <atom:link href="https://niloulsarvian.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Nilou Sarvian</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://niloulsarvian.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <url>https://niloulsarvian.github.io/images/icon_hu79d1062966a75cea877d8f2a74887156_30511_512x512_fill_lanczos_center_2.png</url>
+      <title>Nilou Sarvian</title>
       <link>https://niloulsarvian.github.io/</link>
     </image>
     
@@ -125,6 +125,14 @@ The variance of the distribution is $\sigma^{2}$.
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>my blog post title</title>
+      <link>https://niloulsarvian.github.io/post/my_blog_post_directory/june-9-2020-my-blog-post-title/</link>
+      <pubDate>Sat, 06 Feb 2021 18:24:59 -0600</pubDate>
+      <guid>https://niloulsarvian.github.io/post/my_blog_post_directory/june-9-2020-my-blog-post-title/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -299,7 +307,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-935846217&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-421983576&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -309,7 +317,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-935846217&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-421983576&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -779,6 +787,14 @@ Three
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://niloulsarvian.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://niloulsarvian.github.io/home/</guid>
+      <description></description>
     </item>
     
   </channel>
