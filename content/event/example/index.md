@@ -1,8 +1,5 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: 
 address:
   city: Stanford
   country: United States
@@ -17,13 +14,13 @@ event: Wowchemy Conference
 event_url: https://example.org
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 location: Wowchemy HQ
 projects:
 - internal-project

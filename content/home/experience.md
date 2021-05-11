@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-active: false
+active: true
 # This file represents a page section.
 headless: true
 
@@ -23,24 +23,48 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Earth and Plannetary Sciences PhD Candidate
+    company: Northwestern University
+    company_url: ''
+    location: Illinois
+    date_start: '2017-09-01'
+    date_end: ''
+    description: Researches paleoclimate using radiogenic isotopes. Works in a clean lab. 
+ 
+  - title: Institute for Sustainability and Energy at Northwestern (ISEN) Cluster Fellow
+    company: Northwestern University
+    company_url: ''
+    location: Illinois
+    date_start: '2018-09-01'
+    date_end: '2019-06-13'
+    description: Funding for one year, participated in NUvention - Energy class, which was taught through the Farley Center for Entrepreneurship and Innovation.
+  
+  - title: Lab Manager/Lab Tech II
+    company: Omnis Mineral Technologies
     company_url: ''
     location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    date_start: '2015-11-03'
+    date_end: '2017-08-31'
+    #Coal company aimed to reducing ash content and repurposing coal mining tailings
     description: |2-
         Responsibilities include:
+      
+        * Quality Assurance Analysis
+        * Data reporting
+        * Lab Saftey Manager
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Chemistry, B.S.
+    company: UC Santa Barbara
     company_url: ''
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2011-09-01'
+    date_end: '2015-06-20'
+    description: |2-
+        Courses Taken include:
+        
+        * Physical Chemistry
+        * Organic Chemistry 
+        * Physics   
+        * Biology
+        * Multi-Variable Calculus
 ---

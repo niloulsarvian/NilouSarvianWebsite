@@ -11,12 +11,17 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 20
+  weight = 30
 
 [[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 30
+  name = "Experience"
+  url = "#experience"
+  weight = 20
+
+#[[main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 30
 
 
 [[main]]

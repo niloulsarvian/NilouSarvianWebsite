@@ -2,6 +2,7 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
+active: true
 
 # This file represents a page section.
 headless: true
@@ -27,10 +28,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: CuCap 
-    tag: CuCap
-  - name: Data Science
-    tag: Data Science
+  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
