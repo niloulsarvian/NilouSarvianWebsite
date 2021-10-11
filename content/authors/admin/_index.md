@@ -28,7 +28,7 @@ social:
   link: https://github.com/niloulsarvian
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/niloulsarvian
+  link: https://www.linkedin.com/in/niloulsarvian
 superuser: false
 title: Niloufar Lilly Sarvian
 ---
