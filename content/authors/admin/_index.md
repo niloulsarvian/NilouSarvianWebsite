@@ -37,10 +37,9 @@ title: Niloufar Lilly Sarvian
 
 I am a PhD candidate at Northwestern University studying paleoclimate. I use isotopes to study Earth's past history. 
 
+I'm interested in using data to tell a story about the world around us. Using my knowledge of climate science, data science, and data visualization I hope to help adapt our world to a changing climate. Additionally, I'm intrugied by our journey towards renewables and the feasiblity of carbon capture. 
 
-I'm interested in using my knowledge of climate science, data science, and data visualization to help adapt our world to a changing climate. In particular, I'm interested in our journey towards renewables, along with carbon capture feasibility. 
-
-I invite you to explore my website and get to know me and my interests. If you would like to learn more about my work, please get in touch! You can also follow me on twitter for more updates about my research.
+I invite you to explore my website and get to know me and my interests. If you would like to learn more about my work, please get in touch (niloulsarvian@gmail.com)! You can also follow me on twitter (@niloulsarvian) for more updates about my research.
 
 
  
