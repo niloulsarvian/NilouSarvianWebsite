@@ -38,6 +38,14 @@ experience:
     date_start: '2018-09-01'
     date_end: '2019-06-13'
     description: Funding for one year, participated in NUvention - Energy class, which was taught through the Farley Center for Entrepreneurship and Innovation.
+    
+    - title: PhD Associate Intern
+    company: Energy Capital Venturess
+    company_url: 'http://energycapitalventures.com'
+    location: Illinois
+    date_start: '2022-01-05'
+    date_end: '2022-06-13'
+    description: Due Diligence research on climate tech/carbon sequestration technologies, specific focus on ocean carbon dioxide removal. Outreach to startups looking for Seed-Series A funding.  
   
   - title: Lab Manager/Lab Tech II
     company: Omnis Mineral Technologies
