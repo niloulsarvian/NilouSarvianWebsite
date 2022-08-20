@@ -23,13 +23,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Earth and Plannetary Sciences PhD Candidate
+
+  - title: Earth and Planetary Sciences PhD Candidate
     company: Northwestern University
     company_url: ''
     location: Illinois
     date_start: '2017-09-01'
     date_end: ''
-    description: Researches paleoclimate using radiogenic isotopes. Works in a clean lab. 
+    description: Research on paleoclimate and paleoceanography using stable Ca, stable Sr, and radiogenic Sr isotopes.
  
   - title: Institute for Sustainability and Energy at Northwestern (ISEN) Cluster Fellow
     company: Northwestern University
@@ -37,15 +38,15 @@ experience:
     location: Illinois
     date_start: '2018-09-01'
     date_end: '2019-06-13'
-    description: Funding for one year, participated in NUvention - Energy class, which was taught through the Farley Center for Entrepreneurship and Innovation.
+    description: Funding for one year participated in NUvention Energy class which was taught through the Farley Center for Entrepreneurship and Innovation
     
-    - title: PhD Associate Intern
-    company: Energy Capital Venturess
+  - title: PhD Associate Intern
+    company: Energy Capital Ventures
     company_url: 'http://energycapitalventures.com'
     location: Illinois
     date_start: '2022-01-05'
     date_end: '2022-06-13'
-    description: Due Diligence research on climate tech/carbon sequestration technologies, specific focus on ocean carbon dioxide removal. Outreach to startups looking for Seed-Series A funding.  
+    description: Due Diligence research on climate tech/carbon sequestration technologies, specific focus on ocean carbon dioxide removal.
   
   - title: Lab Manager/Lab Tech II
     company: Omnis Mineral Technologies
